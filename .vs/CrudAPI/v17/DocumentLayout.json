@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgramasVisual\\CrudAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A12505C5-AC16-4850-82B1-01F9FDD3E4C0}|CrudAPI\\CrudAPI.csproj|c:\\programasvisual\\crudapi\\crudapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12505C5-AC16-4850-82B1-01F9FDD3E4C0}|CrudAPI\\CrudAPI.csproj|solutionrelative:crudapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12505C5-AC16-4850-82B1-01F9FDD3E4C0}|CrudAPI\\CrudAPI.csproj|c:\\programasvisual\\crudapi\\crudapi\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12505C5-AC16-4850-82B1-01F9FDD3E4C0}|CrudAPI\\CrudAPI.csproj|solutionrelative:crudapi\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12505C5-AC16-4850-82B1-01F9FDD3E4C0}|CrudAPI\\CrudAPI.csproj|c:\\programasvisual\\crudapi\\crudapi\\services\\perfilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12505C5-AC16-4850-82B1-01F9FDD3E4C0}|CrudAPI\\CrudAPI.csproj|solutionrelative:crudapi\\services\\perfilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12505C5-AC16-4850-82B1-01F9FDD3E4C0}|CrudAPI\\CrudAPI.csproj|c:\\programasvisual\\crudapi\\crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12505C5-AC16-4850-82B1-01F9FDD3E4C0}|CrudAPI\\CrudAPI.csproj|solutionrelative:crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgramasVisual\\CrudAPI\\CrudAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CrudAPI\\Program.cs",
+              "ToolTip": "C:\\ProgramasVisual\\CrudAPI\\CrudAPI\\Program.cs",
+              "RelativeToolTip": "CrudAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:06:55.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerfilService.cs",
+              "DocumentMoniker": "C:\\ProgramasVisual\\CrudAPI\\CrudAPI\\Services\\PerfilService.cs",
+              "RelativeDocumentMoniker": "CrudAPI\\Services\\PerfilService.cs",
+              "ToolTip": "C:\\ProgramasVisual\\CrudAPI\\CrudAPI\\Services\\PerfilService.cs",
+              "RelativeToolTip": "CrudAPI\\Services\\PerfilService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:04:30.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\ProgramasVisual\\CrudAPI\\CrudAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "CrudAPI\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\ProgramasVisual\\CrudAPI\\CrudAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "CrudAPI\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwDEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:03:55.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerfilController.cs",
+              "DocumentMoniker": "C:\\ProgramasVisual\\CrudAPI\\CrudAPI\\Controllers\\PerfilController.cs",
+              "RelativeDocumentMoniker": "CrudAPI\\Controllers\\PerfilController.cs",
+              "ToolTip": "C:\\ProgramasVisual\\CrudAPI\\CrudAPI\\Controllers\\PerfilController.cs",
+              "RelativeToolTip": "CrudAPI\\Controllers\\PerfilController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:03:44.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
